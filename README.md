@@ -2,7 +2,7 @@
 This repository includes the Machine Learning model used to classify subvocalized commands. The easiest way to understand subvocalization was by this explanation: When we were young and we learned to read we would say the words out loud, but later when we started getting better reading we could read without the necessity of saying out loud but still hearing that voice in our head. So, subvocalization as we were just about to say something, but not saying, this causes the muscles near our vocal cords to actually move, but not enough for it to be noticeable. 
 
 ### Data
-The data for this experiment was captured using electrodes to get the muscle signals. Once the signal was captured, I converted it into a spectrogram to be able to analyze it with 2-D Convolutions. The script for this information is inside the data folder. 
+The data for this experiment was captured using electrodes to get the muscle signals. Once the signal was captured, I converted it into a spectrogram to be able to analyze it with 2-D Convolutions. The script for this information is inside the src folder. 
 
 ### Approach
 My approach to solving this challenge was to use a Convolutional Neural Network working with the spectrograms of the audios. Since what we wanted to do was to classify the signals as one or two, the model ends in a simple fully connected layer with 2 nodes.

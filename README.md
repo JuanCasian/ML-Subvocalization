@@ -1,4 +1,4 @@
-# Machine Subvocalization Command Recognition
+# Machine Learning Subvocalization Command Recognition
 This repository includes the Machine Learning model used to classify subvocalized commands. The easiest way to understand subvocalization was by this explanation: When we were young and we learned to read we would say the words out loud, but later when we started getting better reading we could read without the necessity of saying out loud but still hearing that voice in our head. So, subvocalization as we were just about to say something, but not saying, this causes the muscles near our vocal cords to actually move, but not enough for it to be noticeable. 
 
 ### Data

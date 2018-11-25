@@ -50,5 +50,15 @@ After training the model for 6000 steps I got **84.8% of accuracy** on my test s
 - http://sox.sourceforge.net/sox.html
 - https://www.media.mit.edu/projects/alterego/overview/
 
+### Dependencies
+- tensorflow
+- pandas
+- numpy
+- matplotlib
+- os
+- skimage
+- sox
+- python
+
 ### Authors
 Juan Pedro Casian - Github: [@JuanCasian](https://github.com/JuanCasian) - Email: juanpedrocasian@gmail.com

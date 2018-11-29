@@ -42,7 +42,7 @@ In order to train the model, I used softmax cross-entropy as a loss function, ta
 #### Loss graph
 ![Loss](res/Model-Loss.png)
 ### Results
-After training the model for 6000 steps I got **84.8% of accuracy** on my test set, using my 5000 step model because after the 5000 step the model started to overfit the training data as it can be seen in the accuracy graph when the validation diverges from the training. 
+After training the model for 6000 steps I got **95.2% of accuracy** on a separate dataset.
 
 ### References
 - https://www.tensorflow.org/guide/
